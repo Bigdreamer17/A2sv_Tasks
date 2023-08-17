@@ -1,0 +1,12 @@
+/home/estifanosfm/Documents/A2sv/ProjectPhase/Day10/CleanArch_Blog/src/Core/Domain/bin/Debug/net7.0/Domain.deps.json
+/home/estifanosfm/Documents/A2sv/ProjectPhase/Day10/CleanArch_Blog/src/Core/Domain/bin/Debug/net7.0/Domain.dll
+/home/estifanosfm/Documents/A2sv/ProjectPhase/Day10/CleanArch_Blog/src/Core/Domain/bin/Debug/net7.0/Domain.pdb
+/home/estifanosfm/Documents/A2sv/ProjectPhase/Day10/CleanArch_Blog/src/Core/Domain/obj/Debug/net7.0/Domain.csproj.AssemblyReference.cache
+/home/estifanosfm/Documents/A2sv/ProjectPhase/Day10/CleanArch_Blog/src/Core/Domain/obj/Debug/net7.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/estifanosfm/Documents/A2sv/ProjectPhase/Day10/CleanArch_Blog/src/Core/Domain/obj/Debug/net7.0/Domain.AssemblyInfoInputs.cache
+/home/estifanosfm/Documents/A2sv/ProjectPhase/Day10/CleanArch_Blog/src/Core/Domain/obj/Debug/net7.0/Domain.AssemblyInfo.cs
+/home/estifanosfm/Documents/A2sv/ProjectPhase/Day10/CleanArch_Blog/src/Core/Domain/obj/Debug/net7.0/Domain.csproj.CoreCompileInputs.cache
+/home/estifanosfm/Documents/A2sv/ProjectPhase/Day10/CleanArch_Blog/src/Core/Domain/obj/Debug/net7.0/Domain.dll
+/home/estifanosfm/Documents/A2sv/ProjectPhase/Day10/CleanArch_Blog/src/Core/Domain/obj/Debug/net7.0/refint/Domain.dll
+/home/estifanosfm/Documents/A2sv/ProjectPhase/Day10/CleanArch_Blog/src/Core/Domain/obj/Debug/net7.0/Domain.pdb
+/home/estifanosfm/Documents/A2sv/ProjectPhase/Day10/CleanArch_Blog/src/Core/Domain/obj/Debug/net7.0/ref/Domain.dll
