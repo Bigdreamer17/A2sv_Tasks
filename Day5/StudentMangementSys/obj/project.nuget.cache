@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "T9YpRki/VYhyVNjliWcYtkkKf6aNJCC5+1E9t3/4m0vtJhAEvkICyAm3LTm6dWShkRjYG8l51TK4QtpsnmbgRg==",
+  "success": true,
+  "projectFilePath": "/home/estifanosfm/Documents/A2sv/ProjectPhase/Day5/StudentMangementSys/StudentMangementSys.csproj",
+  "expectedPackageFiles": [
+    "/home/estifanosfm/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
